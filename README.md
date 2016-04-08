@@ -13,7 +13,9 @@
     - Hostname : 127.0.0.1
     - Port : 52698
 
-※ You should set it `127.0.0.1` not localhost`.
+※ You should set it `127.0.0.1` not `localhost`.
+
+
 ※ `localhost` は動作しません。必ず `127.0.0.1` にします。
 
 ---
